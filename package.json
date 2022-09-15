@@ -1,0 +1,23 @@
+{
+  "name": "rush-test-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregjacobs/rush-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gregjacobs/rush-test/issues"
+  },
+  "homepage": "https://github.com/gregjacobs/rush-test#readme",
+  "dependencies": {
+    "@types/fs-extra": "^9.0.13",
+    "fs-extra": "^10.1.0"
+  }
+}

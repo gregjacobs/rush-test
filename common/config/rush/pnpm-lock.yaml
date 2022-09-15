@@ -1,0 +1,134 @@
+lockfileVersion: 5.3
+
+importers:
+
+  .:
+    specifiers: {}
+
+  ../../libs/lib-a:
+    specifiers:
+      typescript: 4.8.3
+    devDependencies:
+      typescript: 4.8.3
+
+  ../../libs/lib-b:
+    specifiers:
+      typescript: 4.8.3
+    devDependencies:
+      typescript: 4.8.3
+
+  ../../libs/lib-c:
+    specifiers:
+      typescript: 4.8.3
+    devDependencies:
+      typescript: 4.8.3
+
+  ../../libs/lib-d:
+    specifiers:
+      typescript: 4.8.3
+    devDependencies:
+      typescript: 4.8.3
+
+  ../../libs/lib-e:
+    specifiers:
+      typescript: 4.8.3
+    devDependencies:
+      typescript: 4.8.3
+
+  ../../libs/lib-f:
+    specifiers:
+      typescript: 4.8.3
+    devDependencies:
+      typescript: 4.8.3
+
+  ../../libs/lib-g:
+    specifiers:
+      typescript: 4.8.3
+    devDependencies:
+      typescript: 4.8.3
+
+  ../../libs/lib-h:
+    specifiers:
+      typescript: 4.8.3
+    devDependencies:
+      typescript: 4.8.3
+
+  ../../libs/lib-i:
+    specifiers:
+      typescript: 4.8.3
+    devDependencies:
+      typescript: 4.8.3
+
+  ../../libs/lib-j:
+    specifiers:
+      typescript: 4.8.3
+    devDependencies:
+      typescript: 4.8.3
+
+  ../../libs/lib-k:
+    specifiers:
+      typescript: 4.8.3
+    devDependencies:
+      typescript: 4.8.3
+
+  ../../libs/lib-l:
+    specifiers:
+      typescript: 4.8.3
+    devDependencies:
+      typescript: 4.8.3
+
+  ../../libs/lib-m:
+    specifiers:
+      typescript: 4.8.3
+    devDependencies:
+      typescript: 4.8.3
+
+  ../../libs/lib-n:
+    specifiers:
+      typescript: 4.8.3
+    devDependencies:
+      typescript: 4.8.3
+
+  ../../libs/lib-o:
+    specifiers:
+      typescript: 4.8.3
+    devDependencies:
+      typescript: 4.8.3
+
+  ../../libs/lib-p:
+    specifiers:
+      typescript: 4.8.3
+    devDependencies:
+      typescript: 4.8.3
+
+  ../../libs/lib-q:
+    specifiers:
+      typescript: 4.8.3
+    devDependencies:
+      typescript: 4.8.3
+
+  ../../libs/lib-r:
+    specifiers:
+      typescript: 4.8.3
+    devDependencies:
+      typescript: 4.8.3
+
+  ../../libs/lib-s:
+    specifiers:
+      typescript: 4.8.3
+    devDependencies:
+      typescript: 4.8.3
+
+  ../../libs/lib-t:
+    specifiers:
+      typescript: 4.8.3
+    devDependencies:
+      typescript: 4.8.3
+
+packages:
+
+  /typescript/4.8.3:
+    resolution: {integrity: sha512-goMHfm00nWPa8UvR/CPSvykqf6dVV8x/dp0c5mFTMTIu0u0FlGWRioyy7Nn0PGAdHxpJZnuO/ut+PpQ8UiHAig==}
+    engines: {node: '>=4.2.0'}
+    hasBin: true
+    dev: true

@@ -1,0 +1,41 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "rootDir": ".",
+    "sourceMap": true,
+    "declaration": false,
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "importHelpers": true,
+    "target": "es2015",
+    "module": "esnext",
+    "lib": ["es2017", "dom"],
+    "skipLibCheck": true,
+    "skipDefaultLibCheck": true,
+    "baseUrl": ".",
+    "paths": {
+      "@nx-test/lib-a": ["libs/lib-a/src/index.ts"],
+      "@nx-test/lib-b": ["libs/lib-b/src/index.ts"],
+      "@nx-test/lib-c": ["libs/lib-c/src/index.ts"],
+      "@nx-test/lib-d": ["libs/lib-d/src/index.ts"],
+      "@nx-test/lib-e": ["libs/lib-e/src/index.ts"],
+      "@nx-test/lib-f": ["libs/lib-f/src/index.ts"],
+      "@nx-test/lib-g": ["libs/lib-g/src/index.ts"],
+      "@nx-test/lib-h": ["libs/lib-h/src/index.ts"],
+      "@nx-test/lib-i": ["libs/lib-i/src/index.ts"],
+      "@nx-test/lib-j": ["libs/lib-j/src/index.ts"],
+      "@nx-test/lib-k": ["libs/lib-k/src/index.ts"],
+      "@nx-test/lib-l": ["libs/lib-l/src/index.ts"],
+      "@nx-test/lib-m": ["libs/lib-m/src/index.ts"],
+      "@nx-test/lib-n": ["libs/lib-n/src/index.ts"],
+      "@nx-test/lib-o": ["libs/lib-o/src/index.ts"],
+      "@nx-test/lib-p": ["libs/lib-p/src/index.ts"],
+      "@nx-test/lib-q": ["libs/lib-q/src/index.ts"],
+      "@nx-test/lib-r": ["libs/lib-r/src/index.ts"],
+      "@nx-test/lib-s": ["libs/lib-s/src/index.ts"],
+      "@nx-test/lib-t": ["libs/lib-t/src/index.ts"]
+    }
+  },
+  "exclude": ["node_modules", "tmp"]
+}
