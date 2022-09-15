@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/gregjacobs/rush-test#readme",
   "dependencies": {
+    "@types/dedent": "^0.7.0",
     "@types/fs-extra": "^9.0.13",
+    "dedent": "^0.7.0",
     "fs-extra": "^10.1.0"
   }
 }
