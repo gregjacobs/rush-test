@@ -1,0 +1,10 @@
+{
+    "name": "lib-20",
+    "version": "0.0.0",
+    "scripts": {
+        "build": "rm -rf dist && tsc"
+    },
+    "devDependencies": {
+        "typescript": "4.8.3"
+    }
+}

@@ -1,8 +1,8 @@
 const arr: any[] = []
-for (let char = 'a'; char !== 'u'; char = String.fromCharCode(char.charCodeAt(0) + 1)) {
+for (let i = 1; i <= 100; i++) {
     arr.push({
-        packageName: `lib-${char}`,
-        projectFolder: `libs/lib-${char}`
+        packageName: `lib-${i}`,
+        projectFolder: `libs/lib-${i}`
     });
 }
 

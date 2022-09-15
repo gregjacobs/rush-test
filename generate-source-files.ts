@@ -1,28 +1,28 @@
 import fse from 'fs-extra';
 
-for (let char = 'a'; char !== 'u'; char = String.fromCharCode(char.charCodeAt(0) + 1)) {
+for (let i = 1; i <= 100; i++) {
     // Generate file contents
     let fileContents = '';
-    for (let i = 0; i < 100000; i++) {
+    for (let j = 0; j < 100000; j++) {
         fileContents += `\
-export function doThing${i}() {
-    console.log('Hi ${char} ${i}4');
+export function doThing${j}() {
+    console.log('Hi ${i} ${j}4');
 }
 `;
     }
 
     // Output the source file
-    fse.outputFileSync(`libs/lib-${char}/src/index.ts`, fileContents);
+    fse.outputFileSync(`libs/lib-${i}/src/index.ts`, fileContents);
 
-    fse.outputFileSync(`libs/lib-${char}/tsconfig.json`, JSON.stringify({
+    fse.outputFileSync(`libs/lib-${i}/tsconfig.json`, JSON.stringify({
       extends: '../../tsconfig.base.json',
       compilerOptions: {
         rootDir: './src',
         outDir: './dist'
       }
   }, null, 4));
-  fse.outputFileSync(`libs/lib-${char}/package.json`, JSON.stringify({
-      name: `lib-${char}`,
+  fse.outputFileSync(`libs/lib-${i}/package.json`, JSON.stringify({
+      name: `lib-${i}`,
       version: '0.0.0',
       scripts: {
         build: 'rm -rf dist && tsc'

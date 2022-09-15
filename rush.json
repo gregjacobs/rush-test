@@ -400,86 +400,405 @@
    */
   "projects": [
     {
-      "packageName": "lib-a",
-      "projectFolder": "libs/lib-a"
+      "packageName": "lib-1",
+      "projectFolder": "libs/lib-1"
   },
   {
-      "packageName": "lib-b",
-      "projectFolder": "libs/lib-b"
+      "packageName": "lib-2",
+      "projectFolder": "libs/lib-2"
   },
   {
-      "packageName": "lib-c",
-      "projectFolder": "libs/lib-c"
+      "packageName": "lib-3",
+      "projectFolder": "libs/lib-3"
   },
   {
-      "packageName": "lib-d",
-      "projectFolder": "libs/lib-d"
+      "packageName": "lib-4",
+      "projectFolder": "libs/lib-4"
   },
   {
-      "packageName": "lib-e",
-      "projectFolder": "libs/lib-e"
+      "packageName": "lib-5",
+      "projectFolder": "libs/lib-5"
   },
   {
-      "packageName": "lib-f",
-      "projectFolder": "libs/lib-f"
+      "packageName": "lib-6",
+      "projectFolder": "libs/lib-6"
   },
   {
-      "packageName": "lib-g",
-      "projectFolder": "libs/lib-g"
+      "packageName": "lib-7",
+      "projectFolder": "libs/lib-7"
   },
   {
-      "packageName": "lib-h",
-      "projectFolder": "libs/lib-h"
+      "packageName": "lib-8",
+      "projectFolder": "libs/lib-8"
   },
   {
-      "packageName": "lib-i",
-      "projectFolder": "libs/lib-i"
+      "packageName": "lib-9",
+      "projectFolder": "libs/lib-9"
   },
   {
-      "packageName": "lib-j",
-      "projectFolder": "libs/lib-j"
+      "packageName": "lib-10",
+      "projectFolder": "libs/lib-10"
   },
   {
-      "packageName": "lib-k",
-      "projectFolder": "libs/lib-k"
+      "packageName": "lib-11",
+      "projectFolder": "libs/lib-11"
   },
   {
-      "packageName": "lib-l",
-      "projectFolder": "libs/lib-l"
+      "packageName": "lib-12",
+      "projectFolder": "libs/lib-12"
   },
   {
-      "packageName": "lib-m",
-      "projectFolder": "libs/lib-m"
+      "packageName": "lib-13",
+      "projectFolder": "libs/lib-13"
   },
   {
-      "packageName": "lib-n",
-      "projectFolder": "libs/lib-n"
+      "packageName": "lib-14",
+      "projectFolder": "libs/lib-14"
   },
   {
-      "packageName": "lib-o",
-      "projectFolder": "libs/lib-o"
+      "packageName": "lib-15",
+      "projectFolder": "libs/lib-15"
   },
   {
-      "packageName": "lib-p",
-      "projectFolder": "libs/lib-p"
+      "packageName": "lib-16",
+      "projectFolder": "libs/lib-16"
   },
   {
-      "packageName": "lib-q",
-      "projectFolder": "libs/lib-q"
+      "packageName": "lib-17",
+      "projectFolder": "libs/lib-17"
   },
   {
-      "packageName": "lib-r",
-      "projectFolder": "libs/lib-r"
+      "packageName": "lib-18",
+      "projectFolder": "libs/lib-18"
   },
   {
-      "packageName": "lib-s",
-      "projectFolder": "libs/lib-s"
+      "packageName": "lib-19",
+      "projectFolder": "libs/lib-19"
   },
   {
-      "packageName": "lib-t",
-      "projectFolder": "libs/lib-t"
+      "packageName": "lib-20",
+      "projectFolder": "libs/lib-20"
+  },
+  {
+      "packageName": "lib-21",
+      "projectFolder": "libs/lib-21"
+  },
+  {
+      "packageName": "lib-22",
+      "projectFolder": "libs/lib-22"
+  },
+  {
+      "packageName": "lib-23",
+      "projectFolder": "libs/lib-23"
+  },
+  {
+      "packageName": "lib-24",
+      "projectFolder": "libs/lib-24"
+  },
+  {
+      "packageName": "lib-25",
+      "projectFolder": "libs/lib-25"
+  },
+  {
+      "packageName": "lib-26",
+      "projectFolder": "libs/lib-26"
+  },
+  {
+      "packageName": "lib-27",
+      "projectFolder": "libs/lib-27"
+  },
+  {
+      "packageName": "lib-28",
+      "projectFolder": "libs/lib-28"
+  },
+  {
+      "packageName": "lib-29",
+      "projectFolder": "libs/lib-29"
+  },
+  {
+      "packageName": "lib-30",
+      "projectFolder": "libs/lib-30"
+  },
+  {
+      "packageName": "lib-31",
+      "projectFolder": "libs/lib-31"
+  },
+  {
+      "packageName": "lib-32",
+      "projectFolder": "libs/lib-32"
+  },
+  {
+      "packageName": "lib-33",
+      "projectFolder": "libs/lib-33"
+  },
+  {
+      "packageName": "lib-34",
+      "projectFolder": "libs/lib-34"
+  },
+  {
+      "packageName": "lib-35",
+      "projectFolder": "libs/lib-35"
+  },
+  {
+      "packageName": "lib-36",
+      "projectFolder": "libs/lib-36"
+  },
+  {
+      "packageName": "lib-37",
+      "projectFolder": "libs/lib-37"
+  },
+  {
+      "packageName": "lib-38",
+      "projectFolder": "libs/lib-38"
+  },
+  {
+      "packageName": "lib-39",
+      "projectFolder": "libs/lib-39"
+  },
+  {
+      "packageName": "lib-40",
+      "projectFolder": "libs/lib-40"
+  },
+  {
+      "packageName": "lib-41",
+      "projectFolder": "libs/lib-41"
+  },
+  {
+      "packageName": "lib-42",
+      "projectFolder": "libs/lib-42"
+  },
+  {
+      "packageName": "lib-43",
+      "projectFolder": "libs/lib-43"
+  },
+  {
+      "packageName": "lib-44",
+      "projectFolder": "libs/lib-44"
+  },
+  {
+      "packageName": "lib-45",
+      "projectFolder": "libs/lib-45"
+  },
+  {
+      "packageName": "lib-46",
+      "projectFolder": "libs/lib-46"
+  },
+  {
+      "packageName": "lib-47",
+      "projectFolder": "libs/lib-47"
+  },
+  {
+      "packageName": "lib-48",
+      "projectFolder": "libs/lib-48"
+  },
+  {
+      "packageName": "lib-49",
+      "projectFolder": "libs/lib-49"
+  },
+  {
+      "packageName": "lib-50",
+      "projectFolder": "libs/lib-50"
+  },
+  {
+      "packageName": "lib-51",
+      "projectFolder": "libs/lib-51"
+  },
+  {
+      "packageName": "lib-52",
+      "projectFolder": "libs/lib-52"
+  },
+  {
+      "packageName": "lib-53",
+      "projectFolder": "libs/lib-53"
+  },
+  {
+      "packageName": "lib-54",
+      "projectFolder": "libs/lib-54"
+  },
+  {
+      "packageName": "lib-55",
+      "projectFolder": "libs/lib-55"
+  },
+  {
+      "packageName": "lib-56",
+      "projectFolder": "libs/lib-56"
+  },
+  {
+      "packageName": "lib-57",
+      "projectFolder": "libs/lib-57"
+  },
+  {
+      "packageName": "lib-58",
+      "projectFolder": "libs/lib-58"
+  },
+  {
+      "packageName": "lib-59",
+      "projectFolder": "libs/lib-59"
+  },
+  {
+      "packageName": "lib-60",
+      "projectFolder": "libs/lib-60"
+  },
+  {
+      "packageName": "lib-61",
+      "projectFolder": "libs/lib-61"
+  },
+  {
+      "packageName": "lib-62",
+      "projectFolder": "libs/lib-62"
+  },
+  {
+      "packageName": "lib-63",
+      "projectFolder": "libs/lib-63"
+  },
+  {
+      "packageName": "lib-64",
+      "projectFolder": "libs/lib-64"
+  },
+  {
+      "packageName": "lib-65",
+      "projectFolder": "libs/lib-65"
+  },
+  {
+      "packageName": "lib-66",
+      "projectFolder": "libs/lib-66"
+  },
+  {
+      "packageName": "lib-67",
+      "projectFolder": "libs/lib-67"
+  },
+  {
+      "packageName": "lib-68",
+      "projectFolder": "libs/lib-68"
+  },
+  {
+      "packageName": "lib-69",
+      "projectFolder": "libs/lib-69"
+  },
+  {
+      "packageName": "lib-70",
+      "projectFolder": "libs/lib-70"
+  },
+  {
+      "packageName": "lib-71",
+      "projectFolder": "libs/lib-71"
+  },
+  {
+      "packageName": "lib-72",
+      "projectFolder": "libs/lib-72"
+  },
+  {
+      "packageName": "lib-73",
+      "projectFolder": "libs/lib-73"
+  },
+  {
+      "packageName": "lib-74",
+      "projectFolder": "libs/lib-74"
+  },
+  {
+      "packageName": "lib-75",
+      "projectFolder": "libs/lib-75"
+  },
+  {
+      "packageName": "lib-76",
+      "projectFolder": "libs/lib-76"
+  },
+  {
+      "packageName": "lib-77",
+      "projectFolder": "libs/lib-77"
+  },
+  {
+      "packageName": "lib-78",
+      "projectFolder": "libs/lib-78"
+  },
+  {
+      "packageName": "lib-79",
+      "projectFolder": "libs/lib-79"
+  },
+  {
+      "packageName": "lib-80",
+      "projectFolder": "libs/lib-80"
+  },
+  {
+      "packageName": "lib-81",
+      "projectFolder": "libs/lib-81"
+  },
+  {
+      "packageName": "lib-82",
+      "projectFolder": "libs/lib-82"
+  },
+  {
+      "packageName": "lib-83",
+      "projectFolder": "libs/lib-83"
+  },
+  {
+      "packageName": "lib-84",
+      "projectFolder": "libs/lib-84"
+  },
+  {
+      "packageName": "lib-85",
+      "projectFolder": "libs/lib-85"
+  },
+  {
+      "packageName": "lib-86",
+      "projectFolder": "libs/lib-86"
+  },
+  {
+      "packageName": "lib-87",
+      "projectFolder": "libs/lib-87"
+  },
+  {
+      "packageName": "lib-88",
+      "projectFolder": "libs/lib-88"
+  },
+  {
+      "packageName": "lib-89",
+      "projectFolder": "libs/lib-89"
+  },
+  {
+      "packageName": "lib-90",
+      "projectFolder": "libs/lib-90"
+  },
+  {
+      "packageName": "lib-91",
+      "projectFolder": "libs/lib-91"
+  },
+  {
+      "packageName": "lib-92",
+      "projectFolder": "libs/lib-92"
+  },
+  {
+      "packageName": "lib-93",
+      "projectFolder": "libs/lib-93"
+  },
+  {
+      "packageName": "lib-94",
+      "projectFolder": "libs/lib-94"
+  },
+  {
+      "packageName": "lib-95",
+      "projectFolder": "libs/lib-95"
+  },
+  {
+      "packageName": "lib-96",
+      "projectFolder": "libs/lib-96"
+  },
+  {
+      "packageName": "lib-97",
+      "projectFolder": "libs/lib-97"
+  },
+  {
+      "packageName": "lib-98",
+      "projectFolder": "libs/lib-98"
+  },
+  {
+      "packageName": "lib-99",
+      "projectFolder": "libs/lib-99"
+  },
+  {
+      "packageName": "lib-100",
+      "projectFolder": "libs/lib-100"
   }
-
     // {
     //   /**
     //    * The NPM package name of the project (must match package.json)
