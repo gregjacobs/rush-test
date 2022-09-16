@@ -813,6 +813,16 @@ importers:
       tslib: 2.4.0
       typescript: 4.8.3
 
+  ../../libs/lib-with-dep-10:
+    specifiers:
+      lib-with-dep-9: workspace:*
+      tslib: 2.4.0
+      typescript: 4.8.3
+    devDependencies:
+      lib-with-dep-9: link:../lib-with-dep-9
+      tslib: 2.4.0
+      typescript: 4.8.3
+
   ../../libs/lib-with-dep-2:
     specifiers:
       lib-with-dep-1: workspace:*
@@ -850,6 +860,46 @@ importers:
       typescript: 4.8.3
     devDependencies:
       lib-with-dep-4: link:../lib-with-dep-4
+      tslib: 2.4.0
+      typescript: 4.8.3
+
+  ../../libs/lib-with-dep-6:
+    specifiers:
+      lib-with-dep-5: workspace:*
+      tslib: 2.4.0
+      typescript: 4.8.3
+    devDependencies:
+      lib-with-dep-5: link:../lib-with-dep-5
+      tslib: 2.4.0
+      typescript: 4.8.3
+
+  ../../libs/lib-with-dep-7:
+    specifiers:
+      lib-with-dep-6: workspace:*
+      tslib: 2.4.0
+      typescript: 4.8.3
+    devDependencies:
+      lib-with-dep-6: link:../lib-with-dep-6
+      tslib: 2.4.0
+      typescript: 4.8.3
+
+  ../../libs/lib-with-dep-8:
+    specifiers:
+      lib-with-dep-7: workspace:*
+      tslib: 2.4.0
+      typescript: 4.8.3
+    devDependencies:
+      lib-with-dep-7: link:../lib-with-dep-7
+      tslib: 2.4.0
+      typescript: 4.8.3
+
+  ../../libs/lib-with-dep-9:
+    specifiers:
+      lib-with-dep-8: workspace:*
+      tslib: 2.4.0
+      typescript: 4.8.3
+    devDependencies:
+      lib-with-dep-8: link:../lib-with-dep-8
       tslib: 2.4.0
       typescript: 4.8.3
 
