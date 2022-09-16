@@ -14,4 +14,4 @@ jobs:
               run: node common/scripts/install-run-rush.js install
 
             - name: build
-              run: node common/scripts/install-run-rush.js build
+              run: node common/scripts/install-run-rush.js build --to lib-with-dep-5

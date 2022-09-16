@@ -798,6 +798,26 @@
   {
       "packageName": "lib-100",
       "projectFolder": "libs/lib-100"
+  },
+  {
+      "packageName": "lib-with-dep-1",
+      "projectFolder": "libs/lib-with-dep-1"
+  },
+  {
+      "packageName": "lib-with-dep-2",
+      "projectFolder": "libs/lib-with-dep-2"
+  },
+  {
+      "packageName": "lib-with-dep-3",
+      "projectFolder": "libs/lib-with-dep-3"
+  },
+  {
+      "packageName": "lib-with-dep-4",
+      "projectFolder": "libs/lib-with-dep-4"
+  },
+  {
+      "packageName": "lib-with-dep-5",
+      "projectFolder": "libs/lib-with-dep-5"
   }
     // {
     //   /**
