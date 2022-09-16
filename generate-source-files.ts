@@ -1,8 +1,8 @@
 import dedent from 'dedent';
 import fse from 'fs-extra';
 
-// Generate 5 packages that rely on each other
-for (let i = 1; i <= 5; i++) {
+// Generate 10 packages that rely on each other
+for (let i = 1; i <= 10; i++) {
     // Generate file contents
     let fileContents = ``;
     for (let j = 0; j < 100000; j++) {

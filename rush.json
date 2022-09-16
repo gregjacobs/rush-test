@@ -818,6 +818,26 @@
   {
       "packageName": "lib-with-dep-5",
       "projectFolder": "libs/lib-with-dep-5"
+  },
+  {
+      "packageName": "lib-with-dep-6",
+      "projectFolder": "libs/lib-with-dep-6"
+  },
+  {
+      "packageName": "lib-with-dep-7",
+      "projectFolder": "libs/lib-with-dep-7"
+  },
+  {
+      "packageName": "lib-with-dep-8",
+      "projectFolder": "libs/lib-with-dep-8"
+  },
+  {
+      "packageName": "lib-with-dep-9",
+      "projectFolder": "libs/lib-with-dep-9"
+  },
+  {
+      "packageName": "lib-with-dep-10",
+      "projectFolder": "libs/lib-with-dep-10"
   }
     // {
     //   /**
